@@ -1,0 +1,6 @@
+C:\Users\mateusz.skrobas\Desktop\Programering\20192020\E-Prov\EPROV\EPROV\bin\Debug\EPROV.exe.config
+C:\Users\mateusz.skrobas\Desktop\Programering\20192020\E-Prov\EPROV\EPROV\bin\Debug\EPROV.exe
+C:\Users\mateusz.skrobas\Desktop\Programering\20192020\E-Prov\EPROV\EPROV\bin\Debug\EPROV.pdb
+C:\Users\mateusz.skrobas\Desktop\Programering\20192020\E-Prov\EPROV\EPROV\obj\Debug\EPROV.csprojAssemblyReference.cache
+C:\Users\mateusz.skrobas\Desktop\Programering\20192020\E-Prov\EPROV\EPROV\obj\Debug\EPROV.exe
+C:\Users\mateusz.skrobas\Desktop\Programering\20192020\E-Prov\EPROV\EPROV\obj\Debug\EPROV.pdb
